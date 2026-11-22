@@ -1,0 +1,61 @@
+page,title,price_gbp,in_stock,availability_raw,rating_stars,price_tier,title_word_count
+1,A Light in the Attic,51.77,True,In stock,1,Premium (>£45),5
+1,Tipping the Velvet,53.74,True,In stock,1,Premium (>£45),3
+1,Soumission,50.1,True,In stock,1,Premium (>£45),1
+1,Sharp Objects,47.82,True,In stock,3,Premium (>£45),2
+1,Sapiens: A Brief History of Humankind,54.23,True,In stock,5,Premium (>£45),6
+1,The Requiem Red,22.65,True,In stock,1,Budget (<=£25),3
+1,The Dirty Little Secrets of Getting Your Dream Job,33.34,True,In stock,4,Mid-Range (£25-£45),9
+1,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,True,In stock,3,Budget (<=£25),15
+1,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,True,In stock,4,Budget (<=£25),18
+1,The Black Maria,52.15,True,In stock,1,Premium (>£45),3
+1,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,True,In stock,2,Budget (<=£25),6
+1,Shakespeare's Sonnets,20.66,True,In stock,4,Budget (<=£25),2
+1,Set Me Free,17.46,True,In stock,5,Budget (<=£25),3
+1,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,True,In stock,5,Premium (>£45),8
+1,Rip it Up and Start Again,35.02,True,In stock,5,Mid-Range (£25-£45),6
+1,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,True,In stock,3,Premium (>£45),13
+1,Olio,23.88,True,In stock,1,Budget (<=£25),1
+1,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,True,In stock,1,Mid-Range (£25-£45),7
+1,Libertarianism for Beginners,51.33,True,In stock,2,Premium (>£45),3
+1,It's Only the Himalayas,45.17,True,In stock,2,Premium (>£45),4
+2,In Her Wake,12.84,True,In stock,1,Budget (<=£25),3
+2,How Music Works,37.32,True,In stock,2,Mid-Range (£25-£45),3
+2,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More",30.52,True,In stock,3,Mid-Range (£25-£45),13
+2,Chase Me (Paris Nights #2),25.27,True,In stock,5,Mid-Range (£25-£45),5
+2,Black Dust,34.53,True,In stock,5,Mid-Range (£25-£45),2
+2,Birdsong: A Story in Pictures,54.64,True,In stock,3,Premium (>£45),5
+2,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,22.5,True,In stock,3,Budget (<=£25),14
+2,Aladdin and His Wonderful Lamp,53.13,True,In stock,3,Premium (>£45),5
+2,Worlds Elsewhere: Journeys Around Shakespeare's Globe,40.3,True,In stock,5,Mid-Range (£25-£45),6
+2,Wall and Piece,44.18,True,In stock,4,Mid-Range (£25-£45),3
+2,The Four Agreements: A Practical Guide to Personal Freedom,17.66,True,In stock,5,Budget (<=£25),9
+2,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,31.05,True,In stock,3,Mid-Range (£25-£45),12
+2,The Elephant Tree,23.82,True,In stock,5,Budget (<=£25),3
+2,The Bear and the Piano,36.89,True,In stock,1,Mid-Range (£25-£45),5
+2,Sophie's World,15.94,True,In stock,5,Budget (<=£25),2
+2,Penny Maybe,33.29,True,In stock,3,Mid-Range (£25-£45),2
+2,Maude (1883-1993):She Grew Up with the country,18.02,True,In stock,2,Budget (<=£25),7
+2,"In a Dark, Dark Wood",19.63,True,In stock,1,Budget (<=£25),5
+2,Behind Closed Doors,52.22,True,In stock,4,Premium (>£45),3
+2,You can't bury them all: Poems,33.63,True,In stock,2,Mid-Range (£25-£45),6
+3,Slow States of Collapse: Poems,57.31,True,In stock,3,Premium (>£45),5
+3,Reasons to Stay Alive,26.41,True,In stock,2,Mid-Range (£25-£45),4
+3,Private Paris (Private #10),47.61,True,In stock,5,Premium (>£45),4
+3,Higher Is Waiting,52.3,True,In stock,3,Premium (>£45),3
+3,Grimm's Fairy Tales,56.02,True,In stock,2,Premium (>£45),3
+3,God: The Most Unpleasant Character in All Fiction,30.03,True,In stock,5,Mid-Range (£25-£45),8
+3,Glory over Everything: Beyond The Kitchen House,45.84,True,In stock,3,Premium (>£45),7
+3,Feathers: Displays of Brilliant Plumage,49.05,True,In stock,3,Premium (>£45),5
+3,Resting,31.12,True,In stock,2,Mid-Range (£25-£45),1
+3,On the Road (Duluoz Legend),32.36,True,In stock,3,Mid-Range (£25-£45),5
+3,Old Records Never Die: One Man's Quest for His Vinyl and His Past,55.66,True,In stock,2,Premium (>£45),13
+3,Off Sides (Off #1),39.45,True,In stock,5,Mid-Range (£25-£45),4
+3,Of Mice and Men,47.11,True,In stock,2,Premium (>£45),4
+3,Myriad (Prentor #1),46.5,True,In stock,4,Premium (>£45),3
+3,My Name Is Lucy Barton,41.56,True,In stock,1,Mid-Range (£25-£45),5
+3,Mrs. Houdini,30.25,True,In stock,5,Mid-Range (£25-£45),2
+3,Modern Romance,28.26,True,In stock,5,Mid-Range (£25-£45),2
+3,Miss Peregrine's Home for Peculiar Children (Miss Peregrine's Peculiar Children #1),21.4,True,In stock,1,Budget (<=£25),11
+3,Louisa: The Extraordinary Life of Mrs. Adams,16.85,True,In stock,2,Budget (<=£25),7
+3,Little Red,13.47,True,In stock,3,Budget (<=£25),2
